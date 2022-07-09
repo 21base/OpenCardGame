@@ -1,5 +1,5 @@
 # Open card game 
 
-##Rules 
+## Rules 
 
 Player has to open two identical card
